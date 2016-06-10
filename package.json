@@ -1,6 +1,6 @@
 {
   "name": "isihac",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "I'm Sorry I Haven't a Clue quote API",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,6 @@
     "babel-preset-es2015": "^6.9.0",
     "chai": "^3.5.0",
     "isparta": "^4.0.0",
-    "mocha": "^2.5.3",
-    "sinon": "^1.17.4"
+    "mocha": "^2.5.3"
   }
 }
