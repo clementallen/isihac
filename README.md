@@ -9,6 +9,10 @@
 
 [![NPM](https://nodei.co/npm/isihac.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/isihac/)
 
+And so, ladies & gentlemen, as the milkman of time leaves a pint on the doorstep of eternity, and the policeman of doom arrests him for urinating in public..
+
+...it is time to install the latest version of the I'm Sorry I Haven't a Clue quote API
+
 ### Install
 ```
 npm install --save isihac
@@ -16,11 +20,11 @@ npm install --save isihac
 
 
 ### Example
-```
-var isihac = require('isihac');
+``` javascript
+const isihac = require('isihac');
 
-var allQuotes = isihac.allQuotes(); // retrieve all quotes
-var randomQuote = isihac.randomQuote(); // retrieve a random isihac quote
+isihac.allQuotes(); // => ['quote1', 'quote2']
+isihac.randomQuote(); // => 'quote2'
 ```
 
 ### Run tests
@@ -28,4 +32,6 @@ var randomQuote = isihac.randomQuote(); // retrieve a random isihac quote
 npm run tests
 ```
 
-### API Docs
+## License
+
+MIT © [Clement Allen](http://clementallen.com)
