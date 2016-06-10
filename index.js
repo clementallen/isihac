@@ -1,1 +1,1 @@
-module.exports = require('./lib/isihac');
+module.exports = require('./src/isihac');
