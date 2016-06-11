@@ -1,6 +1,6 @@
 {
   "name": "isihac",
-  "version": "0.2.2",
+  "version": "0.1.1",
   "description": "I'm Sorry I Haven't a Clue quote API",
   "main": "index.js",
   "scripts": {
