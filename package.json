@@ -9,6 +9,7 @@
     "prepublish": "npm run compile",
     "compile": "babel -d lib/ src/"
   },
+  "tonicExampleFilename": "example.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/clementallen/isihac.git"

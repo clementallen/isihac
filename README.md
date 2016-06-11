@@ -7,7 +7,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/clementallen/isihac/badge.svg?branch=master)](https://coveralls.io/github/clementallen/isihac?branch=master)
 [![devDependency Status](https://david-dm.org/clementallen/isihac/dev-status.svg)](https://david-dm.org/clementallen/isihac#info=devDependencies)
 
-[![NPM](https://nodei.co/npm/isihac.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/isihac/)
+[![NPM](https://nodei.co/npm/isihac.png?downloads=true&stars=true)](https://nodei.co/npm/isihac/)
 
 And so, ladies & gentlemen, as the milkman of time leaves a pint on the doorstep of eternity, and the policeman of doom arrests him for urinating in public..
 
@@ -29,9 +29,9 @@ isihac.randomQuote(); // => 'quote2'
 
 ### Run tests
 ```
-npm run tests
+npm run test
 ```
 
 ## License
 
-MIT © [Clement Allen](http://clementallen.com)
+ISC © [Clement Allen](http://clementallen.com)
