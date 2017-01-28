@@ -1,5 +1,7 @@
 # ISIHAC
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clementallen/isihac.svg)](https://greenkeeper.io/)
+
 ## I'm Sorry I Haven't a Clue quote API
 [![npm version](https://badge.fury.io/js/isihac.svg)](https://www.npmjs.com/package/isihac)
 [![Build Status](https://travis-ci.org/clementallen/isihac.svg?branch=master)](https://travis-ci.org/clementallen/isihac)
